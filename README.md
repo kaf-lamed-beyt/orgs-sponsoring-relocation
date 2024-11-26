@@ -12,7 +12,7 @@ Credit to **Plaform** for sharing this on the **JavaScripters** WhatsApp communi
 - [Airtasker](https://airtasker.com/careers/) - Visa, PR sponsorship, and relocation support to Australia.
 - [Adyen](https://careers.adyen.com/vacancies) - Relocation to the Netherlands.
 - [Anthropic](https://anthropic.com/careers#open-roles) - Visa support to the US.
-- [Appinio](https://boards.eu.greenhouse.io) - Relocation to multiple countries.
+- [Appinio](https://job-boards.eu.greenhouse.io/appinio) - Relocation to multiple countries.
 - [arculus](https://arculus.de/career/) - Relocation to Germany.
 - [ARHS Group](https://arhs-group.com/careers.html) - Relocation to Luxembourg.
 - [adjoe](https://adjoe.io/company/careers/#open-jobs) - Visa support to Germany.
