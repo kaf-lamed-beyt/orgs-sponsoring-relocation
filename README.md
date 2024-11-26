@@ -65,7 +65,7 @@ Credit to **Plaform** for sharing this on the **JavaScripters** WhatsApp communi
 ---
 
 ## H
-- [Happy Scribe](https://happyscribe.com) - Visa sponsorship and relocation bonus to Spain.
+- [Happy Scribe](https://happyscribe.notion.site/Work-At-Happy-Scribe-72cc8cb35ccb4ad18cd159e6ae19be50) - Visa sponsorship and relocation bonus to Spain.
 - [HAWK:AI](https://boards.eu.greenhouse.io/hawkai) - Relocation to Germany.
 - [HelloBetter](https://geton.jobs.personio.de) - Relocation assistance to Germany.
 - [HelloFresh](https://careers.hellofresh.com/global/en/search-results) - Relocation to Germany.
